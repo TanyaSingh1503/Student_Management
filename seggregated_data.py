@@ -4,7 +4,7 @@ input_file = "data.xlsx" #input excel sheet which has to be segregated
 df = pd.read_excel(input_file)
 
 
-split_column = "College_Code"  # Replace with your exact column name
+split_column = "College_Code"  # Replace with your exact column_name
 
 
 output_file = "segregated_data.xlsx"  # New segregated file with multiple sheets of different colleges codes
