@@ -40,7 +40,7 @@ Users can filter data by College Name, allowing them to focus on a specific inst
 
 
 ## Dasboard Preview
-![Housing Dashboard](IMAGE-LINK-HERE)
+![Housing Dashboard](https://raw.githubusercontent.com/TanyaSingh1503/Student_Management/refs/heads/main/Student%20Enrollment%20Dashboard.png)
 
 ## Dashboard Walkthrough Video
 Watch the video here: [Google Drive Link](https://drive.google.com/file/d/1WfEa5G5hdgAD85eWzBvcq9SmdsoDoNjW/view?usp=sharing)
